@@ -1,0 +1,6 @@
+{
+  "name": "Gerenciador de Contatos",
+  "description": "Sistema de gestão de contatos com suporte a nome, telefone, e-mail e integração com Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
